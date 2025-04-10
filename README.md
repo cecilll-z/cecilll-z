@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm **cecilll-z**
+# 👋 Hi there! I'm **Cecilll Z**
 
 | 🎯 **CV & NLP & ML** | 🏆 **Kaggle Master** |
  

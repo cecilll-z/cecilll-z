@@ -6,18 +6,18 @@
 
 ## 🖼️ Research Interests
 
-🔹 **Natural Language Processing:** Large Language Model, Retrieval and Rerank, Agent
+🔹 **Natural Language Processing:** Large Language Model, Retrieval and Rerank, Agent, etc.
 
-🔹 **Computer Vision:** Object Detection, Image Segmentation, Image Classification and Multi-Modal
+🔹 **Computer Vision:** Object Detection, Image Segmentation, Image Classification and Multi-Modal, etc.
 
-🔹 **Machine Learning & Others:** Time Series, Tree Algorithm, Optimization Algorithm
+🔹 **DS & AI:** Time Series, Tree Algorithm, Optimization Algorithm, etc.
 
 ---
 
 ## 🏆 Competitions
 
 ### 🏅 2025
-- 🥇 **Champion** - Kaggle CIBMTR - Equity in post-HCT Survival Predictions (Data Science)
+- 🥉 **Bronze Medal** - Kaggle CIBMTR - Equity in post-HCT Survival Predictions (Data Science)
 
 ### 🏅 2024
 - 🥈 **Silver Medal** - Kaggle Optiver - Trading at the Close (Time Series)
@@ -41,6 +41,13 @@
 
 ### 📜 2022
 - 📝 **Brain tumour segmentation based on an improved U-Net** - BMC Medical Imaging
+
+---
+
+## 👯 Projects
+
+### 👨🏽‍💻 2025
+- 👋 **Tiny-universe** - 2k+star!! tiny-universe 旨在将LLM"白盒"化,用最简洁的代码实现LLM的加载,预训练,微调,推理,RAG,评测以及Agent全流程.
 
 ---
 

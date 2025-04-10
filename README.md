@@ -7,7 +7,9 @@
 ## 🖼️ Research Interests
 
 🔹 **Natural Language Processing:** Large Language Model, Retrieval and Rerank, Agent
+
 🔹 **Computer Vision:** Object Detection, Image Segmentation, Image Classification and Multi-Modal
+
 🔹 **Machine Learning & Others:** Time Series, Tree Algorithm, Optimization Algorithm
 
 ---

@@ -35,6 +35,8 @@
 ---
 
 ## 📄 Publications
+### 📜 2025
+- 📝 **TDSR:Temporal Dynamics Enhanced Semantic Recommendation via Cross-Domain Interactive Learning** - ICIC oral
 
 ### 📜 2024
 - 📝 **High-Precision Semi-supervised 3D Dental Segmentation Based on nnUNet** - MICCAI Workshop

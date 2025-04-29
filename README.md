@@ -10,7 +10,7 @@
 
 🔹 **Computer Vision:** Object Detection, Image Segmentation, Image Classification and Multi-Modal, etc.
 
-🔹 **DS & AI:** Time Series, Tree Algorithm, Optimization Algorithm, etc.
+🔹 **DS & AI:** Time Series, Tree Algorithm, Optimization Algorithm, Graph Recommendation etc.
 
 ---
 
